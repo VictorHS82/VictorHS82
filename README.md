@@ -4,5 +4,5 @@ Apenas estudando no momento
 Aluno do curos de Análise e desenvolvimento de sistemas
 ## Área de interesse
 Ainda descobrindo
-## Redes sociais
+
 
